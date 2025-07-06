@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: Comentario.app Wordpress Interation
+ * Plugin Name: Comentario.app Wordpress Integration
  * Description: Replace native comments with Comment.app.
  * Version:     1.2
  * Author:      Mitai
